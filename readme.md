@@ -1,0 +1,1 @@
+Deep Reinforcement Learning model for trading strategies using Python, TensorFlow, and Keras. Integrated action augmentation, custom Q-networks, and experience replay to optimize trading decisions and capture temporal dependencies.
